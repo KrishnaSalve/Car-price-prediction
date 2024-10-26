@@ -99,12 +99,15 @@ Further, I have also used tried touse Hyperparameter for some algorithms which w
 ## Setup
 
   1. Clone the Repository:
+
     https://github.com/KrishnaSalve/Car-price-prediction.git
 
   2. Navigate to the project directory in your local system:
+
     cd Car-price-prediction
 
   3. Install required packages: 
+  
     pip install -r requirements.txt
 
 ### Usage 
